@@ -1,0 +1,5 @@
+This is an interactive micro-game, using C# scripts and basic assets 
+allowing users to feed animals with space key and to move right and left with A and D respectively.
+The files belongs to WebGl version of this project.
+You can simply go to this web address and play the micro-game:
+https://play.unity.com/mg/other/farmer-ow
