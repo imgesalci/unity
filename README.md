@@ -9,4 +9,6 @@
 
 -Vehicle: is an interactive micro-game, using C# scripts and basic assets.
 
+-Farmer: is an interactive micro-game, using C# scripts and basic assets allowing users to feed animals with space key and to move right and left with A and D respectively.
+
 ![unity-essentials-pathway-2-2](https://github.com/imgesalci/unity/assets/91889435/97d46da2-3484-4502-94db-0a79f1df9463)
