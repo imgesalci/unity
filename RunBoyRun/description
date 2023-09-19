@@ -1,5 +1,5 @@
-This is an interactive micro-game, using C# scripts and basic assets. You can jump with space key in order to
-  jump obstacles.
+This is an interactive micro-game, using C# scripts and basic assets. You can jump with space key in order 
+to jump obstacles.
 The files belongs to WebGl version of this project.
 You can simply go to this web address and play the micro-game:
 https://play.unity.com/mg/other/runboyrun-2
